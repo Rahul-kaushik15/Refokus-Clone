@@ -19,7 +19,25 @@ Smooth animations, 3D effects, and a clean dark UI designed for a creative studi
 - React + Vite  
 - Framer Motion  
 - Tailwind / CSS  
-- React Icons  
+- React Icons
+
+- ## 📸 Screenshots
+
+
+
+### 🟣 Home Section
+<img src="./public/screenshot/home.png" width="100%" />
+
+### 🟣 Awards Section
+<img src="./public/screenshot/awards.png" width="100%" />
+
+### 🟣 Projects Section
+<img src="./public/screenshot/project.png" width="100%" />
+
+### 🟣 Footer
+<img src="./public/screenshot/footer.png" width="100%" />
+
+--- 
 
 ## 📦 Setup
 ```bash
