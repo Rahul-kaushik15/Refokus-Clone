@@ -1,29 +1,46 @@
+# ✨ Refokus Clone — Modern Animated Agency Website
 
-Refokus Clone — Modern Animated Agency Website
+A modern, premium, and animation-rich agency website inspired by **Refokus**, built using **React**, **Vite**, and **Framer Motion**.  
+This project focuses on **smooth micro-interactions, 3D-inspired motion effects, dark theme UI, and agency-level design aesthetics**.
 
-
-# Refokus Clone  
-A modern, animated, and premium agency-style website inspired by **Refokus**, built using **React**, **Vite**, and **Framer Motion**.  
-Smooth animations, 3D effects, and a clean dark UI designed for a creative studio experience.
+---
 
 ## 🚀 Features
-- Fully animated UI using **Framer Motion**
-- Clean Refokus-style dark theme
-- Smooth scrolling & transitions
-- Animated text + image sections
-- Awards marquee animation
-- Responsive and modern layout
-- 3D-inspired motion effects
+
+### 🎨 UI / UX
+- Clean & modern Refokus-style dark theme  
+- Smooth section-based transitions  
+- Minimal + premium agency design  
+- Animated headings, texts, and media elements  
+- Responsive layout for all devices  
+
+### ⚡ Animations & Interactions
+- Built entirely with **Framer Motion**  
+- Scroll-based fade, slide, and scale animations  
+- Awards marquee auto-scroll  
+- Hover-based interactive elements  
+- Soft 3D motion effects for depth  
+
+### 📌 Core Sections
+- Hero / Home  
+- Awards Showcase  
+- Projects Section  
+- Footer  
+
+---
 
 ## 🛠 Tech Stack
-- React + Vite  
-- Framer Motion  
-- Tailwind / CSS  
-- React Icons
 
-- ## 📸 Screenshots
+| Technology       | Purpose |
+|------------------|---------|
+| **React (Vite)** | UI development & project structure |
+| **Framer Motion** | Page + element animations |
+| **Tailwind CSS / CSS** | Styling & layout |
+| **React Icons** | Icons used across UI |
 
+---
 
+## 📸 Screenshots
 
 ### 🟣 Home Section
 <img src="./public/screenshot/home.png" width="100%" />
@@ -37,9 +54,11 @@ Smooth animations, 3D effects, and a clean dark UI designed for a creative studi
 ### 🟣 Footer
 <img src="./public/screenshot/footer.png" width="100%" />
 
---- 
+---
 
-## 📦 Setup
+## 📦 Getting Started
+
+Install dependencies:
+
 ```bash
 npm install
-npm run dev
